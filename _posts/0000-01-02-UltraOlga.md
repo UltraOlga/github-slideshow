@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Monday *starts* on Saturday
 Use the left arrow to go back!
